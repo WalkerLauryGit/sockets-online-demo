@@ -1,0 +1,27 @@
+.container{
+    display: flex;
+  }
+  .card{
+    border: 1px solid black;
+    width: 200px;
+    background-color: #DCDCDC;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .card-title{
+    color: #fff;
+  }
+  
+  
+  .card-body{
+    background-color: green;
+  }
+
+  .green{
+      background: green;
+  }
+
+  .red{
+      background: red;
+  }
